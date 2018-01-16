@@ -19,6 +19,14 @@ public class Yosoytu {
         String nombre1;
        
         
+        
+        
+        System.out.println("Tienes 3 intentos.");
+        
+        
+        
+        
+        
         System.out.println("Introduce un nombre");
         Scanner nombre = new Scanner(System.in);
         nombre1 = nombre.nextLine();
