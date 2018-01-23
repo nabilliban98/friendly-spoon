@@ -16,24 +16,24 @@ public class Yosoytu {
     
     public static void main(String[] args) {
       
-        String nombre1;
-       
+        String nombre;
+        String parentesco;
+      
+        
+        
+        System.out.println("4");
         
         
         
-        System.out.println("Tienes 3 intentos.");
         
         
+        System.out.println("Introduce un nombre y un parentesco, repetir 4 veces.");
         
-        
-        
-        System.out.println("Introduce un nombre");
         Scanner nombre = new Scanner(System.in);
-        nombre1 = nombre.nextLine();
         
+        nombre = sc.nextLine();
         
-         System.out.println("pie" + nombre );
-        
+       
         
         
         
